@@ -1,0 +1,3 @@
+/project3/libpeer/examples/generic/CMakeFiles/generic.dir
+/project3/libpeer/examples/generic/CMakeFiles/edit_cache.dir
+/project3/libpeer/examples/generic/CMakeFiles/rebuild_cache.dir

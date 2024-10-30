@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/generic.dir/main.c.o CMakeFiles/generic.dir/reader.c.o -o generic   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lpeer -lpthread -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 

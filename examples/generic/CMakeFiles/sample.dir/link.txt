@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/sample.dir/main.o CMakeFiles/sample.dir/reader.o -o sample  -lpeer -lpthread 
